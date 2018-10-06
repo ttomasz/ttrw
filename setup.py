@@ -8,10 +8,10 @@ setuptools.setup(
     version="1.0",
     author="Tomasz Taraś",
     author_email="tomasztaras@outlook.com",
-    description="A small example package",
+    description="Simple python package that generates strings with randomly selected words.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/ttomasz/ttrw",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
