@@ -12,7 +12,10 @@ VerySadFish
 ```
 
 ## Installation:
-TODO
+Use pip:
+```commandline
+pip install ttrw
+```
 
 ## Usage:
 Sample usage:
