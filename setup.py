@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="ttrw",
-    version="1.0",
+    version="1.2",
     author="Tomasz Taraś",
     author_email="tomasztaras@outlook.com",
     description="Simple python package that generates strings with randomly selected words.",
@@ -18,4 +18,5 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
+    include_package_data=True
 )
